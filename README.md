@@ -1,4 +1,5 @@
 README [![Build Status](https://travis-ci.org/akumuli/Akumuli.svg?branch=master)](https://travis-ci.org/akumuli/Akumuli) [![Coverity Scan Build Status](https://scan.coverity.com/projects/8879/badge.svg)](https://scan.coverity.com/projects/akumuli) [![Join the chat at https://gitter.im/akumuli/Akumuli](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akumuli/Akumuli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMickMickMickMick%2FAkumuli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMickMickMickMick%2FAkumuli?ref=badge_shield)
 ======
 
 **Akumuli** is a time-series database for modern hardware. 
@@ -89,3 +90,7 @@ without any trouble, for instance `netdata`, `collectd`, and `tcollector`. Grafa
 [datasource](https://github.com/akumuli/akumuli-datasource) plugin is availabe as well.
 
 [Google group](https://groups.google.com/forum/#!forum/akumuli)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMickMickMickMick%2FAkumuli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMickMickMickMick%2FAkumuli?ref=badge_large)
